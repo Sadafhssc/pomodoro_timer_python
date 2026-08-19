@@ -57,6 +57,10 @@ This project provides practical experience with:
 * User interaction
 * Application organization
 
+## Live Demo
+
+[View the Live Demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7350456692406439936/)
+
 ## Future Improvements
 
 * Customizable work and break durations
